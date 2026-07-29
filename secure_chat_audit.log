@@ -1,0 +1,4 @@
+{"timestamp": "2026-07-29T12:15:42.550338", "event": "KEY_EXCHANGE", "sender": "Alice", "receiver": "Bob", "status": "SUCCESS", "details": "RSA-2048 key exchange completed"}
+{"timestamp": "2026-07-29T12:15:42.555488", "event": "MESSAGE_SENT", "sender": "Alice", "receiver": "Bob", "status": "SUCCESS", "details": "Message delivered and verified"}
+{"timestamp": "2026-07-29T12:15:42.558433", "event": "MESSAGE_SENT", "sender": "Bob", "receiver": "Alice", "status": "SUCCESS", "details": "Message delivered and verified"}
+{"timestamp": "2026-07-29T12:15:42.558743", "event": "ATTACK_DETECTED", "sender": "Attacker", "receiver": "Bob", "status": "BLOCKED", "details": "Sender spoofing attempt rejected"}
