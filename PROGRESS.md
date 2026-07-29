@@ -11,6 +11,17 @@
 - Week 5: OWASP Top 10, XSS, CSRF, Nmap, Vulnerability Scanner ✅
 - Week 6: IR, Threat Hunting, SIEM, Live Threat Simulation ✅
 
+## Certifications In Progress
+- Cisco NetAcad — Introduction to Cybersecurity
+  Status: In Progress 🔄
+  Modules: 1✅ 2✅ 3✅ 4⏳ 5⏳
+  Scores:  M1=90% M2=100% M3=83%
+  Link: https://www.netacad.com/courses/introduction-to-cybersecurity
+
+## Certifications Planned
+- CompTIA Security+ (Phase 4 — Semester 6)
+- IBM Qiskit Developer (Phase 4 — Semester 6)
+
 ## Projects
 - LSB Steganography tool ✅
 - Quantyber Scanner v1.0 ✅
