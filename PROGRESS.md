@@ -14,8 +14,9 @@
 ## Certifications In Progress
 - Cisco NetAcad — Introduction to Cybersecurity
   Status: In Progress 🔄
-  Modules: 1✅ 2✅ 3✅ 4⏳ 5⏳
-  Scores:  M1=90% M2=100% M3=83%
+  Modules: 1✅ 2✅ 3✅ 4✅ 5✅
+  Scores:  M1=90% M2=100% M3=83% M4=100% M5=100%
+  Final Exam Score: 80% | Completed: August 03 2026
   Link: https://www.netacad.com/courses/introduction-to-cybersecurity
 
 ## Certifications Planned
