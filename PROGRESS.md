@@ -28,6 +28,7 @@
 - Quantyber Scanner v1.0 ✅
 - CipherShield (hackathon) ✅
 - Simple SIEM ✅
+- SecureChat (TCP encrypted chat) ✅
 
 ## Ongoing
 - Dan Boneh Cryptography I (weekends)
