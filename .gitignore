@@ -1,0 +1,4 @@
+# Private keys — NEVER commit
+*.pem
+*.key
+secure_chat_keys/
